@@ -1,6 +1,6 @@
 # Tmux-Bunch
 
-![logo](../master/docs/images/IMG_20180304_101729_188.JPG)
+![logo](../master/docs/images/Screenshot_20181108-014448.png)
 
 ### _Steps For Installation_
 1. Goto home directory `cd $HOME`
