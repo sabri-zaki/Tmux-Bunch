@@ -1,5 +1,9 @@
 # Tmux-Bunch
-
+This Tool is originally of Hax4us https://github.com/Hax4us
+I used to upload Tmux-Bunch v2.4 because it's work great on non orio phones
+The original one and the latest version of Tmux-Bunch 2.7-orio
+work just for android 8 and + https://github.com/Hax4us/Tmux-Bunch
+for me I use android 6 and version 2.4 work great for all the eldest version 
 ![logo](../master/docs/images/Screenshot_20181108-014448.png)
 
 ### _Steps For Installation_
